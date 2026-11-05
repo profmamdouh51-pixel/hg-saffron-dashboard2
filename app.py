@@ -23,7 +23,7 @@ except FileNotFoundError:
 
 st.sidebar.header("🎛️ التحكم")
 category = st.sidebar.selectbox("اختر القسم", sorted(df['Category'].unique()))
-available_markers = sorted(df[df['Category'] == category]['Marker'].unique())
+available_markers = sorted([str(m) for m in df[df['Category'] == category]['Marker'].unique()])
 marker = st.sidebar.selectbox("اختر المؤشر الحيوي", available_markers)
 st.sidebar.divider()
 show_ai = st.sidebar.checkbox("🤖 AI Predictions", value=True)
