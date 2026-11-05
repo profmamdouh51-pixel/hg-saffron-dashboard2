@@ -84,11 +84,10 @@ if show_recovery:
 
 if show_ai:
     st.subheader("🤖 AI What-If Simulator")
-    group_codes = {g: i for i, g in enumerate(present_groups)}
     # إنشاء أكواد ديناميكية لكل المجموعات الموجودة في هذا المؤشر
-unique_groups = marker_data['Group'].unique().tolist()
-group_codes = {g: i for i, g in enumerate(unique_groups)}
-marker_data['Code'] = marker_data['Group'].map(group_codes).astype(int)
+    unique_groups = marker_data['Group'].unique().tolist()
+    group_codes = {g: i for i, g in enumerate(unique_groups)}
+    marker_data['Code'] = marker_data['Group'].map(group_codes).astype(int)
     X = marker_data[['Code']]
     y = marker_data['Value']
     if len(X) > 0:
@@ -96,7 +95,7 @@ marker_data['Code'] = marker_data['Group'].map(group_codes).astype(int)
         model.fit(X, y)
         col1, col2 = st.columns(2)
         with col1:
-            g = st.selectbox("اختر المجموعة للتنبؤ", present_groups)
+            g = st.selectbox("اختر المجموعة للتنبؤ", unique_groups)
             pred = model.predict([[group_codes[g]]])[0]
             actual = get_mean(g) if g in present_groups else None
             st.metric(f"AI Prediction — {g}", f"{pred:.2f}",
