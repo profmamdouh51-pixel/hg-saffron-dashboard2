@@ -85,7 +85,10 @@ if show_recovery:
 if show_ai:
     st.subheader("🤖 AI What-If Simulator")
     group_codes = {g: i for i, g in enumerate(present_groups)}
-    marker_data['Code'] = marker_data['Group'].map(group_codes).astype(int)
+    # إنشاء أكواد ديناميكية لكل المجموعات الموجودة في هذا المؤشر
+unique_groups = marker_data['Group'].unique().tolist()
+group_codes = {g: i for i, g in enumerate(unique_groups)}
+marker_data['Code'] = marker_data['Group'].map(group_codes).astype(int)
     X = marker_data[['Code']]
     y = marker_data['Value']
     if len(X) > 0:
