@@ -1,0 +1,313 @@
+Category,Marker,Group,Replicate,Value
+Liver,AST,Control,1,41.3
+Liver,AST,Control,2,40
+Liver,AST,Control,3,39
+Liver,AST,Saffron+ normal,1,43
+Liver,AST,Saffron+ normal,2,39
+Liver,AST,Saffron+ normal,3,36
+Liver,AST,Hg-induced,1,346.7
+Liver,AST,Hg-induced,2,370
+Liver,AST,Hg-induced,3,290
+Liver,AST,Hg-Saffron (Protective),1,170
+Liver,AST,Hg-Saffron (Protective),2,160
+Liver,AST,Hg-Saffron (Protective),3,177
+Liver,AST,VitE Treatment,1,94
+Liver,AST,VitE Treatment,2,100
+Liver,AST,VitE Treatment,3,89
+Liver,AST,Saffron Treatment,1,113
+Liver,AST,Saffron Treatment,2,100
+Liver,AST,Saffron Treatment,3,78
+Liver,ALT,Control,1,74
+Liver,ALT,Control,2,70
+Liver,ALT,Control,3,66
+Liver,ALT,Saffron+ normal,1,70
+Liver,ALT,Saffron+ normal,2,59
+Liver,ALT,Saffron+ normal,3,80
+Liver,ALT,Hg-induced,1,313
+Liver,ALT,Hg-induced,2,300
+Liver,ALT,Hg-induced,3,338
+Liver,ALT,Hg-Saffron (Protective),1,180
+Liver,ALT,Hg-Saffron (Protective),2,178
+Liver,ALT,Hg-Saffron (Protective),3,180
+Liver,ALT,VitE Treatment,1,151
+Liver,ALT,VitE Treatment,2,133
+Liver,ALT,VitE Treatment,3,122
+Liver,ALT,Saffron Treatment,1,134
+Liver,ALT,Saffron Treatment,2,122
+Liver,ALT,Saffron Treatment,3,99
+Liver,ALP,Control,1,87.3
+Liver,ALP,Control,2,80
+Liver,ALP,Control,3,87
+Liver,ALP,Saffron+ normal,1,90
+Liver,ALP,Saffron+ normal,2,80
+Liver,ALP,Saffron+ normal,3,78
+Liver,ALP,Hg-induced,1,521
+Liver,ALP,Hg-induced,2,476
+Liver,ALP,Hg-induced,3,498
+Liver,ALP,Hg-Saffron (Protective),1,253
+Liver,ALP,Hg-Saffron (Protective),2,190
+Liver,ALP,Hg-Saffron (Protective),3,229
+Liver,ALP,VitE Treatment,1,140
+Liver,ALP,VitE Treatment,2,149
+Liver,ALP,VitE Treatment,3,155
+Liver,ALP,Saffron Treatment,1,110
+Liver,ALP,Saffron Treatment,2,120
+Liver,ALP,Saffron Treatment,3,113
+Oxidative Stress,GSH,Control,1,2900
+Oxidative Stress,GSH,Control,2,3000
+Oxidative Stress,GSH,Control,3,2879
+Oxidative Stress,GSH,Saffron+ normal,1,3000
+Oxidative Stress,GSH,Saffron+ normal,2,2900
+Oxidative Stress,GSH,Saffron+ normal,3,3229
+Oxidative Stress,GSH,Hg-induced,1,1550
+Oxidative Stress,GSH,Hg-induced,2,1220
+Oxidative Stress,GSH,Hg-induced,3,1120
+Oxidative Stress,GSH,Hg-Saffron (Protective),1,1800
+Oxidative Stress,GSH,Hg-Saffron (Protective),2,1890
+Oxidative Stress,GSH,Hg-Saffron (Protective),3,1910
+Oxidative Stress,GSH,VitE Treatment,1,2200
+Oxidative Stress,GSH,VitE Treatment,2,2190
+Oxidative Stress,GSH,VitE Treatment,3,2280
+Oxidative Stress,GSH,Saffron Treatment,1,2490
+Oxidative Stress,GSH,Saffron Treatment,2,2330
+Oxidative Stress,GSH,Saffron Treatment,3,2500
+Oxidative Stress,MDA,Control,1,22
+Oxidative Stress,MDA,Control,2,24
+Oxidative Stress,MDA,Control,3,31
+Oxidative Stress,MDA,Saffron+ normal,1,22
+Oxidative Stress,MDA,Saffron+ normal,2,23
+Oxidative Stress,MDA,Saffron+ normal,3,29
+Oxidative Stress,MDA,Hg-induced,1,59
+Oxidative Stress,MDA,Hg-induced,2,69
+Oxidative Stress,MDA,Hg-induced,3,64
+Oxidative Stress,MDA,Hg-Saffron (Protective),1,54
+Oxidative Stress,MDA,Hg-Saffron (Protective),2,50
+Oxidative Stress,MDA,Hg-Saffron (Protective),3,49
+Oxidative Stress,MDA,VitE Treatment,1,39
+Oxidative Stress,MDA,VitE Treatment,2,40
+Oxidative Stress,MDA,VitE Treatment,3,39
+Oxidative Stress,MDA,Saffron Treatment,1,33
+Oxidative Stress,MDA,Saffron Treatment,2,33
+Oxidative Stress,MDA,Saffron Treatment,3,29
+Oxidative Stress,TAC,Control,1,1.37
+Oxidative Stress,TAC,Control,2,1.77
+Oxidative Stress,TAC,Control,3,1.59
+Oxidative Stress,TAC,Saffron+ normal,1,1.4
+Oxidative Stress,TAC,Saffron+ normal,2,1.79
+Oxidative Stress,TAC,Saffron+ normal,3,1.57
+Oxidative Stress,TAC,Hg-induced,1,0.23
+Oxidative Stress,TAC,Hg-induced,2,0.28
+Oxidative Stress,TAC,Hg-induced,3,0.33
+Oxidative Stress,TAC,Hg-Saffron (Protective),1,0.7
+Oxidative Stress,TAC,Hg-Saffron (Protective),2,0.6
+Oxidative Stress,TAC,Hg-Saffron (Protective),3,0.7
+Oxidative Stress,TAC,VitE Treatment,1,0.89
+Oxidative Stress,TAC,VitE Treatment,2,0.99
+Oxidative Stress,TAC,VitE Treatment,3,1.1
+Oxidative Stress,TAC,Saffron Treatment,1,1.18
+Oxidative Stress,TAC,Saffron Treatment,2,1.28
+Oxidative Stress,TAC,Saffron Treatment,3,1.2
+Neurotransmitters,A,Control,1,306.7
+Neurotransmitters,A,Control,2,300
+Neurotransmitters,A,Control,3,310.9
+Neurotransmitters,A,Saffron+ normal,1,310
+Neurotransmitters,A,Saffron+ normal,2,330
+Neurotransmitters,A,Saffron+ normal,3,320
+Neurotransmitters,A,Hg-induced,1,115
+Neurotransmitters,A,Hg-induced,2,120.87
+Neurotransmitters,A,Hg-induced,3,140
+Neurotransmitters,A,Hg-Saffron (Protective),1,210
+Neurotransmitters,A,Hg-Saffron (Protective),2,203
+Neurotransmitters,A,Hg-Saffron (Protective),3,200
+Neurotransmitters,A,VitE Treatment,1,266.3
+Neurotransmitters,A,VitE Treatment,2,233
+Neurotransmitters,A,VitE Treatment,3,239
+Neurotransmitters,A,Saffron Treatment,1,285.3
+Neurotransmitters,A,Saffron Treatment,2,240
+Neurotransmitters,A,Saffron Treatment,3,290
+Neurotransmitters,NA,Control,1,216.73
+Neurotransmitters,NA,Control,2,220
+Neurotransmitters,NA,Control,3,215
+Neurotransmitters,NA,Saffron+ normal,1,221
+Neurotransmitters,NA,Saffron+ normal,2,234
+Neurotransmitters,NA,Saffron+ normal,3,211
+Neurotransmitters,NA,Hg-induced,1,96.7
+Neurotransmitters,NA,Hg-induced,2,89
+Neurotransmitters,NA,Hg-induced,3,77
+Neurotransmitters,NA,Hg-Saffron (Protective),1,144
+Neurotransmitters,NA,Hg-Saffron (Protective),2,137
+Neurotransmitters,NA,Hg-Saffron (Protective),3,150
+Neurotransmitters,NA,VitE Treatment,1,189
+Neurotransmitters,NA,VitE Treatment,2,177
+Neurotransmitters,NA,VitE Treatment,3,179
+Neurotransmitters,NA,Saffron Treatment,1,190.7
+Neurotransmitters,NA,Saffron Treatment,2,200
+Neurotransmitters,NA,Saffron Treatment,3,188
+Neurotransmitters,DA,Control,1,84.3
+Neurotransmitters,DA,Control,2,90
+Neurotransmitters,DA,Control,3,88
+Neurotransmitters,DA,Saffron+ normal,1,80
+Neurotransmitters,DA,Saffron+ normal,2,100
+Neurotransmitters,DA,Saffron+ normal,3,82
+Neurotransmitters,DA,Hg-induced,1,26.6
+Neurotransmitters,DA,Hg-induced,2,21
+Neurotransmitters,DA,Hg-induced,3,22
+Neurotransmitters,DA,Hg-Saffron (Protective),1,34
+Neurotransmitters,DA,Hg-Saffron (Protective),2,40
+Neurotransmitters,DA,Hg-Saffron (Protective),3,39
+Neurotransmitters,DA,VitE Treatment,1,53
+Neurotransmitters,DA,VitE Treatment,2,55
+Neurotransmitters,DA,VitE Treatment,3,59
+Neurotransmitters,DA,Saffron Treatment,1,63
+Neurotransmitters,DA,Saffron Treatment,2,70
+Neurotransmitters,DA,Saffron Treatment,3,66
+Neurotransmitters,5-HT,Control,1,98
+Neurotransmitters,5-HT,Control,2,92
+Neurotransmitters,5-HT,Control,3,93
+Neurotransmitters,5-HT,Saffron+ normal,1,90
+Neurotransmitters,5-HT,Saffron+ normal,2,100
+Neurotransmitters,5-HT,Saffron+ normal,3,96
+Neurotransmitters,5-HT,Hg-induced,1,41.4
+Neurotransmitters,5-HT,Hg-induced,2,33
+Neurotransmitters,5-HT,Hg-induced,3,36.9
+Neurotransmitters,5-HT,Hg-Saffron (Protective),1,49
+Neurotransmitters,5-HT,Hg-Saffron (Protective),2,55
+Neurotransmitters,5-HT,Hg-Saffron (Protective),3,57
+Neurotransmitters,5-HT,VitE Treatment,1,59.3
+Neurotransmitters,5-HT,VitE Treatment,2,65
+Neurotransmitters,5-HT,VitE Treatment,3,66
+Neurotransmitters,5-HT,Saffron Treatment,1,69.3
+Neurotransmitters,5-HT,Saffron Treatment,2,73
+Neurotransmitters,5-HT,Saffron Treatment,3,77
+Neurotransmitters,AchE,Control,1,3280.5
+Neurotransmitters,AchE,Control,2,3300
+Neurotransmitters,AchE,Control,3,3489
+Neurotransmitters,AchE,Saffron+ normal,1,3380
+Neurotransmitters,AchE,Saffron+ normal,2,3500
+Neurotransmitters,AchE,Saffron+ normal,3,4000
+Neurotransmitters,AchE,Hg-induced,1,9377
+Neurotransmitters,AchE,Hg-induced,2,10000
+Neurotransmitters,AchE,Hg-induced,3,9870
+Neurotransmitters,AchE,Hg-Saffron (Protective),1,6900
+Neurotransmitters,AchE,Hg-Saffron (Protective),2,6000
+Neurotransmitters,AchE,Hg-Saffron (Protective),3,7100
+Neurotransmitters,AchE,VitE Treatment,1,5271
+Neurotransmitters,AchE,VitE Treatment,2,5000
+Neurotransmitters,AchE,VitE Treatment,3,5230
+Neurotransmitters,AchE,Saffron Treatment,1,5298
+Neurotransmitters,AchE,Saffron Treatment,2,4000
+Neurotransmitters,AchE,Saffron Treatment,3,4389
+Anti-inflammatory,IL-6,Control (-Ve.),1,31.49
+Anti-inflammatory,IL-6,Normal + Saffron,1,29.68
+Anti-inflammatory,IL-6,Protective,1,32.74
+Anti-inflammatory,IL-6,#NAME?,1,73.26
+Anti-inflammatory,IL-6,#NAME?,1,37.12
+Anti-inflammatory,IL-6,#NAME?,1,46.27
+Anti-inflammatory,TNF-α,Control (-Ve.),1,24.83
+Anti-inflammatory,TNF-α,Normal + Saffron,1,23.56
+Anti-inflammatory,TNF-α,Protective,1,26.19
+Anti-inflammatory,TNF-α,#NAME?,1,59.48
+Anti-inflammatory,TNF-α,#NAME?,1,34.53
+Anti-inflammatory,TNF-α,#NAME?,1,42.69
+Anti-inflammatory,GABA,Control (-Ve.),1,21.74
+Anti-inflammatory,GABA,Normal + Saffron,1,20.82
+Anti-inflammatory,GABA,Protective,1,23.18
+Anti-inflammatory,GABA,#NAME?,1,63.29
+Anti-inflammatory,GABA,#NAME?,1,41.38
+Anti-inflammatory,GABA,#NAME?,1,53.41
+Anti-inflammatory,BDNF,Control (-Ve.),1,87.61
+Anti-inflammatory,BDNF,Normal + Saffron,1,91.24
+Anti-inflammatory,BDNF,Protective,1,89.57
+Anti-inflammatory,BDNF,#NAME?,1,46.83
+Anti-inflammatory,BDNF,#NAME?,1,78.29
+Anti-inflammatory,BDNF,#NAME?,1,65.32
+Kidney,Urea,Control,1,31
+Kidney,Urea,Control,2,33
+Kidney,Urea,Control,3,29
+Kidney,Urea,Saffron+ normal,1,29
+Kidney,Urea,Saffron+ normal,2,30
+Kidney,Urea,Saffron+ normal,3,27
+Kidney,Urea,Hg-induced,1,81
+Kidney,Urea,Hg-induced,2,78
+Kidney,Urea,Hg-induced,3,99
+Kidney,Urea,Hg-Saffron (Protective),1,54
+Kidney,Urea,Hg-Saffron (Protective),2,49
+Kidney,Urea,Hg-Saffron (Protective),3,50
+Kidney,Urea,VitE Treatment,1,40
+Kidney,Urea,VitE Treatment,2,50
+Kidney,Urea,VitE Treatment,3,41
+Kidney,Urea,Saffron Treatment,1,50
+Kidney,Urea,Saffron Treatment,2,33
+Kidney,Urea,Saffron Treatment,3,35
+Kidney,Creatinine,Control,1,2.2
+Kidney,Creatinine,Control,2,2
+Kidney,Creatinine,Control,3,2.1
+Kidney,Creatinine,Saffron+ normal,1,2.1
+Kidney,Creatinine,Saffron+ normal,2,2.11
+Kidney,Creatinine,Saffron+ normal,3,2.23
+Kidney,Creatinine,Hg-induced,1,8.22
+Kidney,Creatinine,Hg-induced,2,8.66
+Kidney,Creatinine,Hg-induced,3,8.9
+Kidney,Creatinine,Hg-Saffron (Protective),1,5.44
+Kidney,Creatinine,Hg-Saffron (Protective),2,6
+Kidney,Creatinine,Hg-Saffron (Protective),3,5.9
+Kidney,Creatinine,VitE Treatment,1,2.55
+Kidney,Creatinine,VitE Treatment,2,2.43
+Kidney,Creatinine,VitE Treatment,3,2.65
+Kidney,Creatinine,Saffron Treatment,1,2.33
+Kidney,Creatinine,Saffron Treatment,2,2.22
+Kidney,Creatinine,Saffron Treatment,3,2.35
+Lipid Profile,TG,Control,1,302.7
+Lipid Profile,TG,Control,2,288
+Lipid Profile,TG,Control,3,279
+Lipid Profile,TG,Saffron+ normal,1,290
+Lipid Profile,TG,Saffron+ normal,2,288
+Lipid Profile,TG,Saffron+ normal,3,298
+Lipid Profile,TG,Hg-induced,1,760
+Lipid Profile,TG,Hg-induced,2,690
+Lipid Profile,TG,Hg-induced,3,550
+Lipid Profile,TG,Hg-Saffron (Protective),1,460
+Lipid Profile,TG,Hg-Saffron (Protective),2,488
+Lipid Profile,TG,Hg-Saffron (Protective),3,438
+Lipid Profile,TG,VitE Treatment,1,406.3
+Lipid Profile,TG,VitE Treatment,2,366
+Lipid Profile,TG,VitE Treatment,3,350
+Lipid Profile,TG,Saffron Treatment,1,356.3
+Lipid Profile,TG,Saffron Treatment,2,380
+Lipid Profile,TG,Saffron Treatment,3,369
+Lipid Profile,TC,Control,1,64.7
+Lipid Profile,TC,Control,2,66
+Lipid Profile,TC,Control,3,60
+Lipid Profile,TC,Saffron+ normal,1,66
+Lipid Profile,TC,Saffron+ normal,2,62
+Lipid Profile,TC,Saffron+ normal,3,60
+Lipid Profile,TC,Hg-induced,1,219.3
+Lipid Profile,TC,Hg-induced,2,223
+Lipid Profile,TC,Hg-induced,3,240
+Lipid Profile,TC,Hg-Saffron (Protective),1,166
+Lipid Profile,TC,Hg-Saffron (Protective),2,146
+Lipid Profile,TC,Hg-Saffron (Protective),3,174
+Lipid Profile,TC,VitE Treatment,1,95
+Lipid Profile,TC,VitE Treatment,2,77
+Lipid Profile,TC,VitE Treatment,3,80
+Lipid Profile,TC,Saffron Treatment,1,90
+Lipid Profile,TC,Saffron Treatment,2,69
+Lipid Profile,TC,Saffron Treatment,3,84
+Lipid Profile,TL,Control,1,1229.7
+Lipid Profile,TL,Control,2,1300
+Lipid Profile,TL,Control,3,1366
+Lipid Profile,TL,Saffron+ normal,1,1290
+Lipid Profile,TL,Saffron+ normal,2,1300
+Lipid Profile,TL,Saffron+ normal,3,1277
+Lipid Profile,TL,Hg-induced,1,2910
+Lipid Profile,TL,Hg-induced,2,2900
+Lipid Profile,TL,Hg-induced,3,3200
+Lipid Profile,TL,Hg-Saffron (Protective),1,1790
+Lipid Profile,TL,Hg-Saffron (Protective),2,1800
+Lipid Profile,TL,Hg-Saffron (Protective),3,2022
+Lipid Profile,TL,VitE Treatment,1,1303
+Lipid Profile,TL,VitE Treatment,2,1290
+Lipid Profile,TL,VitE Treatment,3,1200
+Lipid Profile,TL,Saffron Treatment,1,1300
+Lipid Profile,TL,Saffron Treatment,2,1220
+Lipid Profile,TL,Saffron Treatment,3,1178
